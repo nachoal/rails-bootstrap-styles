@@ -1,0 +1,1 @@
+Styling for my rails template
